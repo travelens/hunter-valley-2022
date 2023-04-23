@@ -1,7 +1,7 @@
 {
-  "name": "trip-template",
+  "name": "hunter-valley-2022",
   "author": "Chris Tham (chris@christham.net)",
-  "description": "Trip template for travelens",
+  "description": "A short visit to the Hunter Valley (5-6 October 2022) to take advantage of the NSW COVID-19 travel voucher. ",
   "license": "MIT",
   "version": "0.0.1",
   "scripts": {
