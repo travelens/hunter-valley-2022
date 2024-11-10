@@ -8,7 +8,7 @@ timezone: Australia/NSW
 location: Hunter Valley Gardens
 image: ../../assets/gallery/2-hvg-entrance/Amphitheatre (1).jpeg
 gallery: 2-hvg-entrance
-map: [-32.7747,151.2960,16]
+map: [-32.7747, 151.2960, 16]
 tags:
   - Hunter Valley Gardens
   - Hunter Valley

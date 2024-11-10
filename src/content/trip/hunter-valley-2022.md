@@ -10,9 +10,10 @@ image: ../../assets/trip.jpeg
 tags:
   - Oceania
 ---
+
 Our NSW issued COVID-19 travel voucher of $50 was expiring soon, so we hurriedly booked a trip to the Hunter Valley. We wanted to revisit the Hunter Valley Gardens, because we haven't been for a few years. We also stopped at Kurri Kurri on the way, and visited Winmark to see sculptures on the second day.
 
-| Day | Date | Itinerary |
-| ---: | :---- | :--------- |
-| 1 | Wed 5 October | Kurri Kurri |
-| 2 | Thu 6 October | Hunter Valley Gardens, Winmark |
+| Day | Date          | Itinerary                      |
+| --: | :------------ | :----------------------------- |
+|   1 | Wed 5 October | Kurri Kurri                    |
+|   2 | Thu 6 October | Hunter Valley Gardens, Winmark |

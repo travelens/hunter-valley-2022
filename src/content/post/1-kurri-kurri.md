@@ -8,12 +8,13 @@ timezone: Australia/NSW
 location: Kurri Kurri
 image: ../../assets/gallery/1-kurri-kurri/Kurri Kurri clock.jpeg
 gallery: 1-kurri-kurri
-map: [-32.8146,151.4798,14]
+map: [-32.8146, 151.4798, 14]
 tags:
   - Kurri Kurri
   - art
   - mural
 ---
+
 We started driving north in the morning. It was raining, but we had hopes the rain will die out by the time we arrive in the Hunter Valley.
 
 We decided to stop at [Kurri Kurri](https://visitkurrikurri.com/). It has the largest display of outdoor murals in mainland Australia.

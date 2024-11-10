@@ -8,7 +8,7 @@ timezone: Australia/NSW
 location: Winmark Wines
 image: ../../assets/gallery/2-winmark/Winmark (1).jpeg
 gallery: 2-winmark
-map: [-32.77226,151.10263,18]
+map: [-32.77226, 151.10263, 18]
 tags:
   - Winmark
   - winery
@@ -16,9 +16,10 @@ tags:
   - sculpture
   - art
 ---
+
 [Winmark Wines](https://www.winmarkwines.com.au/) was established long ago in the premium soils of the Broke Fordwich area originally as the renowned Pooles Rock vineyard,. The 130 acre property is now home to 30 acres of premium chardonnay vines nestled below Yellow Rock and capturing the mountain breezes and spectacular views.
 
-After a prosporous period of producing Pooles Rock wines, the property was sold and this little gem of a  hunter valley vineyard was left neglected for five years before Karin Adcock purchased the estate and lovingly restored the property and vines back to their premium status under the brand of Winmark Wines (‘Winmark”’ in Karin’s native Danish means “Fields of Wines”).
+After a prosporous period of producing Pooles Rock wines, the property was sold and this little gem of a hunter valley vineyard was left neglected for five years before Karin Adcock purchased the estate and lovingly restored the property and vines back to their premium status under the brand of Winmark Wines (‘Winmark”’ in Karin’s native Danish means “Fields of Wines”).
 
 The blocks were carefully replaced with French root stock to supplement the reputation the vineyard had. The vines grow in well-drained, rich soil over a gravel/shale base. It is a must see on your hunter valley vineyards tour list.
 

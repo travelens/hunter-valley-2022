@@ -8,12 +8,13 @@ timezone: Australia/NSW
 location: Istana Restaurant
 image: ../../assets/gallery/2-istana/Chicken rice at Istana.jpeg
 gallery: 2-istana
-map: [-33.73001,151.08227,18]
+map: [-33.73001, 151.08227, 18]
 tags:
   - Istana
   - dinner
   - Thornleigh
 ---
+
 We weren't that hungry, so we ordered the chicken rice to share between us. It was still a big meal.
 
 After that, we admired the scale model displays at [Scalemodelco](https://www.scalemodelco.com.au/).

@@ -8,11 +8,12 @@ timezone: Australia/NSW
 location: Peppers Creek
 image: ../../assets/gallery/2-peppers/Vineyard (1).jpeg
 gallery: 2-peppers
-map: [-32.77190,151.28353,19]
+map: [-32.77190, 151.28353, 19]
 tags:
   - Peppers Creek
   - Hunter Valley
 ---
+
 [Peppers Creek](https://www.pepperscreek.com.au/) is a boutique shopping village home to a variety of Artisian specialty providers:
 
 - Cafe Enzo

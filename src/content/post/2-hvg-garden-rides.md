@@ -8,11 +8,12 @@ timezone: Australia/NSW
 location: Hunter Valley Gardens
 image: ../../assets/gallery/2-hvg-garden-rides/Garden Rides (10).jpeg
 gallery: 2-hvg-garden-rides
-map: [-32.7747,151.2960,16]
+map: [-32.7747, 151.2960, 16]
 tags:
   - Hunter Valley Gardens
   - Hunter Valley
 ---
+
 Rides include:
 
 - Tea cup - join the tea party at the fantastic Tea Cup ride. Twist, twirl and have fun in giant coloured tea cups.
