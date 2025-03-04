@@ -6,7 +6,7 @@ location: Hunter Valley
 start: 2022-10-05T09:00:00+11:00
 end: 2022-10-06T18:00:00+11:00
 description: A short visit to the Hunter Valley (5-6 October 2022) to take advantage of the NSW COVID-19 travel voucher.
-image: ../../assets/trip.jpeg
+image: ./trip.jpeg
 tags:
   - Oceania
 ---

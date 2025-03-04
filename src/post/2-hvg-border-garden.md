@@ -6,7 +6,7 @@ trip: Hunter Valley 2022
 place: Australia
 timezone: Australia/NSW
 location: Hunter Valley Gardens
-image: ../../assets/gallery/2-hvg-border-garden/Border Garden.jpeg
+image: ../gallery/2-hvg-border-garden/Border Garden.jpeg
 gallery: 2-hvg-border-garden
 map: [-32.7747, 151.2960, 16]
 tags:

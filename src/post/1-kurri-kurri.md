@@ -6,7 +6,7 @@ trip: Hunter Valley 2022
 place: Australia
 timezone: Australia/NSW
 location: Kurri Kurri
-image: ../../assets/gallery/1-kurri-kurri/Kurri Kurri clock.jpeg
+image: ../gallery/1-kurri-kurri/Kurri Kurri clock.jpeg
 gallery: 1-kurri-kurri
 map: [-32.8146, 151.4798, 14]
 tags:
@@ -27,7 +27,7 @@ An image of a kookaburra, the emblem of Kurri Kurri, is contained in each of the
 
 ## THE BIG KOOKABURRA
 
-![THE BIG KOOKABURRA](../../assets/gallery/1-kurri-kurri/Kookaburra_1.jpeg)
+![THE BIG KOOKABURRA](../gallery/1-kurri-kurri/Kookaburra_1.jpeg)
 
 On the list of one of the many “BIG” things found in Australia. The Kookaburra is a native Australian bird found in Kurri Kurri. The kookaburra appears in every one of a series of murals and is also used as a mascot for many community and sports groups.
 
@@ -35,7 +35,7 @@ Standing at almost 5 metres tall, the statue was erected in late 2009 to mark Hy
 
 ## PITHORSE STATUE & MINING MEMORIAL
 
-![PITHORSE STATUE & MINING MEMORIAL](../../assets/gallery/1-kurri-kurri/Pit_horses.jpeg)
+![PITHORSE STATUE & MINING MEMORIAL](../gallery/1-kurri-kurri/Pit_horses.jpeg)
 
 A life-sized bronze statue of a pit horse, skip and wheeler to honour the memory of the pit horses that worked in the local underground mines between 1861 and the 1950’s.
 

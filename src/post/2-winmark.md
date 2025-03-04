@@ -6,7 +6,7 @@ trip: Hunter Valley 2022
 place: Australia
 timezone: Australia/NSW
 location: Winmark Wines
-image: ../../assets/gallery/2-winmark/Winmark (1).jpeg
+image: ../gallery/2-winmark/Winmark (1).jpeg
 gallery: 2-winmark
 map: [-32.77226, 151.10263, 18]
 tags:

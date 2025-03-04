@@ -6,7 +6,7 @@ trip: Hunter Valley 2022
 place: Australia
 timezone: Australia/NSW
 location: Grapevines
-image: ../../assets/gallery/1-grapevines/Grapevines (2).jpeg
+image: ../gallery/1-grapevines/Grapevines (2).jpeg
 gallery: 1-grapevines
 map: [-32.7667, 151.2858, 15]
 tags:

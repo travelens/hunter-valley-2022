@@ -6,7 +6,7 @@ trip: Hunter Valley 2022
 place: Australia
 timezone: Australia/NSW
 location: Istana Restaurant
-image: ../../assets/gallery/2-istana/Chicken rice at Istana.jpeg
+image: ../gallery/2-istana/Chicken rice at Istana.jpeg
 gallery: 2-istana
 map: [-33.73001, 151.08227, 18]
 tags:

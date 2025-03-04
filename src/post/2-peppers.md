@@ -6,7 +6,7 @@ trip: Hunter Valley 2022
 place: Australia
 timezone: Australia/NSW
 location: Peppers Creek
-image: ../../assets/gallery/2-peppers/Vineyard (1).jpeg
+image: ../gallery/2-peppers/Vineyard (1).jpeg
 gallery: 2-peppers
 map: [-32.77190, 151.28353, 19]
 tags:

@@ -6,7 +6,7 @@ trip: Hunter Valley 2022
 place: Australia
 timezone: Australia/NSW
 location: Cafe Enzo
-image: ../../assets/gallery/2-enzos/Fountain.jpeg
+image: ../gallery/2-enzos/Fountain.jpeg
 gallery: 2-enzos
 map: [-32.77190, 151.28353, 19]
 tags:

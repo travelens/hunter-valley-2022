@@ -6,7 +6,7 @@ trip: Hunter Valley 2022
 place: Australia
 timezone: Australia/NSW
 location: Hunter Valley Gardens
-image: ../../assets/gallery/2-hvg-brokenback-brumbles/Brokenback Brumbles (2).jpeg
+image: ../gallery/2-hvg-brokenback-brumbles/Brokenback Brumbles (2).jpeg
 gallery: 2-hvg-brokenback-brumbles
 map: [-32.7747, 151.2960, 16]
 tags:
